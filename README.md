@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ehtisham-Ayaan
+- 👋 Hi, I’m @Ehtisham ur Rehman
 - 👀 I’m interested in Web 
 - 🌱 I’m currently learning BSCS 8th semester
 - 💞️ I’m looking to collaborate on Software Projects
