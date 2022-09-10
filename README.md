@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ehtisham ur Rehman
 - 👀 I’m interested in Web 
-- 🌱 I’m currently learning BSCS 8th semester
+- 🌱 I’m currently working at stack360 as Full Stack Developer
 - 💞️ I’m looking to collaborate on Software Projects
 - 📫 How to reach me ? My whatsapp is 0343-0469956
 
