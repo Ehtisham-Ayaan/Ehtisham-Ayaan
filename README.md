@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web 
 - 🌱 I’m looking to work as Full Stack Developer
 - 💞️ I’m looking to collaborate on Software Projects
-- 📫 How to reach me ? My whatsapp is 0343-0469956
+- 📫 How to reach me ? My whatsapp is +92 343 0469956
 
 <!---
 Ehtisham-Ayaan/Ehtisham-Ayaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
