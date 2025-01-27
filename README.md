@@ -47,14 +47,27 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ehtisham-Ayaan&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehtisham-Ayaan&layout=compact&langs_count=10&card_width=490&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=Ehtisham-Ayaan&theme=dark&background=000000" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td rowspan="2">
+      <img src="https://roadmap.sh/card/tall/6791e3a3db593e4a173902ee?variant=dark&roadmaps=full-stack%2Ctypescript%2Cbackend%2Credis" alt="Learnings"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehtisham-Ayaan&layout=compact&langs_count=10&card_width=490&theme=vision-friendly-dark" alt="Top Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
-
-
-
 <!---
 Ehtisham-Ayaan/Ehtisham-Ayaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
